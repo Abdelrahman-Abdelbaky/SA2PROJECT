@@ -1,0 +1,69 @@
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\SA2Project.deps.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\SA2Project.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\appsettings.Development.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\appsettings.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\SA2Project.exe
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\SA2Project.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\bin\Debug\SA2Project.pdb
+C:\Users\DELL\OneDrive\Desktop\SA2Project\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\SA2Project\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\SA2Project\obj\Debug\docker-compose.dcproj.CopyComplete
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\appsettings.Development.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\SA2Project.deps.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\SA2Project.runtimeconfig.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\appsettings.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\SA2Project.exe
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\SA2Project.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Microsoft.OpenApi.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\Microsoft.Identity.Client.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\bin\Debug\SA2Project.pdb
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\appsettings.Development.json
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\SA2Project.deps.json
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\SA2Project.runtimeconfig.json
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\appsettings.json
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\SA2Project.exe
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\SA2Project.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\SA2Project\bin\Debug\SA2Project.pdb
+C:\Users\Dell\Downloads\SA2Project\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\SA2Project\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\SA2Project\obj\Debug\docker-compose.dcproj.CopyComplete

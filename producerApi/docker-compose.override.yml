@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  sa2project:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"

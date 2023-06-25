@@ -1,0 +1,61 @@
+name: dockercompose10161798316952356554
+services:
+  db:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Asd@123456
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1433"
+      protocol: tcp
+  kafka:
+    environment:
+      KAFKA_ADVERTISED_HOST_NAME: 127.0.0.1
+      KAFKA_CREATE_TOPICS: simpletalk_topic:1:1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+    image: wurstmeister/kafka
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 9092
+      published: "9092"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /var/run/docker.sock
+      target: /var/run/docker.sock
+      bind:
+        create_host_path: true
+  sa2project:
+    build:
+      context: F:\Projects\My projects in ASP.Net\Docker projects\SA2Project
+      dockerfile: SA2Project/Dockerfile
+    depends_on:
+      db:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: sa2project
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+  zookeeper:
+    image: wurstmeister/zookeeper
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 2181
+      published: "2181"
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose10161798316952356554_default

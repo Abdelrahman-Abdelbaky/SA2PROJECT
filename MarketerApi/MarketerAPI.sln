@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketerAPI", "MarketerAPI.csproj", "{113DA748-81D6-4093-93D8-A4B356C4BA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113DA748-81D6-4093-93D8-A4B356C4BA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113DA748-81D6-4093-93D8-A4B356C4BA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113DA748-81D6-4093-93D8-A4B356C4BA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113DA748-81D6-4093-93D8-A4B356C4BA56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDE42EE7-349F-4B60-B5E9-34CD346B1069}
+	EndGlobalSection
+EndGlobal

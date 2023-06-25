@@ -1,0 +1,332 @@
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.exe
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.deps.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.pdb
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\scopedcss\bundle\SA2Project.styles.css
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\refint\SA2Project.dll
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.pdb
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\SA2Project\SA2Project\obj\Debug\net6.0\ref\SA2Project.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\appsettings.Development.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\appsettings.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.exe
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.deps.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.runtimeconfig.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.pdb
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Humanizer.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.AssemblyReference.cache
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.AssemblyInfoInputs.cache
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.AssemblyInfo.cs
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.CoreCompileInputs.cache
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\scopedcss\bundle\SA2Project.styles.css
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.CopyComplete
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\refint\SA2Project.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.pdb
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.genruntimeconfig.cache
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\obj\Debug\net6.0\ref\SA2Project.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\Confluent.Kafka.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+F:\Projects\My projects in ASP.Net\Docker projects\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.exe
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.deps.json
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.runtimeconfig.json
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.pdb
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.AssemblyInfo.cs
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\scopedcss\bundle\SA2Project.styles.css
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.CopyComplete
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\refint\SA2Project.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.pdb
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.genruntimeconfig.cache
+C:\Users\Dell\Downloads\SA2Project\SA2Project\obj\Debug\net6.0\ref\SA2Project.dll
+C:\Users\Dell\Downloads\SA2Project\SA2Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\appsettings.Development.json
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\appsettings.json
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.exe
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.deps.json
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.runtimeconfig.json
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\SA2Project.pdb
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Humanizer.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.AssemblyReference.cache
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.AssemblyInfoInputs.cache
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.AssemblyInfo.cs
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.CoreCompileInputs.cache
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.MvcApplicationPartsAssemblyInfo.cs
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.MvcApplicationPartsAssemblyInfo.cache
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\scopedcss\bundle\SA2Project.styles.css
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.csproj.CopyComplete
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\refint\SA2Project.dll
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.pdb
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\SA2Project.genruntimeconfig.cache
+D:\fcai\level4SemesterTwo\system analysis\SA2Project\SA2Project\obj\Debug\net6.0\ref\SA2Project.dll

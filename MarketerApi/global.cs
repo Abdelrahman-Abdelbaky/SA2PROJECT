@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using MarketerAPI.Models;
+global using MarketerAPI.ViewModels;
+global using Confluent.Kafka;
+global using System.Diagnostics;
+global using System.Net;
+global using System.Text.Json;
